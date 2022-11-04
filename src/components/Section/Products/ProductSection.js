@@ -11,8 +11,8 @@ const ProductSection = ({className, bgUrl, title, tags, subtitle}) => {
           </div>
           <div className='text-xs text-stone flex flex-wrap gap-3 font-bold'>
              {
-                tags?.map((el) => (
-                    <div>{el}</div>
+                tags?.map((el, i) => (
+                    <div key={i}>{el}</div>
                 ))
              }
           </div>
