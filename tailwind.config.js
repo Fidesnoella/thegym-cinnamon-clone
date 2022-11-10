@@ -13,15 +13,14 @@ module.exports = {
         stone: "#666666",
         lightgreen: "#91f1c3",
         purple: "#52247f",
+        darkpurple: "#525252",
         orange: "#ffcb49",
         neutral: "#f6f6f6",
-        zinc: "#525252"
+        zinc: "#525252",
+        teal: "#5125FF1A"
       },
-      // fontSize: {
-      //   xlg : '80px'
-      // },
       screens: {
-        'slg': '1300px'
+        'slg': '81.25rem'
       },
     },
   },

@@ -17,7 +17,7 @@ const ProductSection = ({className, bgUrl, title, tags, subtitle}) => {
              }
           </div>
           <h1 className='text-3xl lg:text-3xl text-black font-bold'>{title}</h1>
-          <h2 className='text-base text-stone  max-w-2xl'>{subtitle}</h2>
+          <h2 className='text-base  text-stone  max-w-2xl'>{subtitle}</h2>
        </div>
     </div>
   )

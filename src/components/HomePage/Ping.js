@@ -17,8 +17,8 @@ const Ping = () => {
         <div className='py-28 px-6 md:px-32 slg:px-52'>
         <div className='grid lg:grid-cols-2  gap-10 justify-center items-center'>
         <div className='grid gap-y-5'>
-            <h1 className='font-bold text-3xl md:text-[40px] relative'>
-            <span class="text-[258px] absolute text-[#5125FF1A] -ml-10 mt-10">“</span>
+            <h1 className='font-bold text-3xl md:text-[2.5rem] relative'>
+            <span className="text-[16.125rem] absolute text-teal -ml-10 mt-10">“</span>
               They’re consistent, and the communication is good.</h1>
             <p className='text-base text-zinc'>When I have a deadline, they would work extra hours on the weekend and after hours.
                 Cinnamon gives the impression of being a smaller team that’s focused on customers.</p>

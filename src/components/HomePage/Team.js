@@ -10,7 +10,7 @@ const Team = () => {
        <div className='mx-auto container '>
         <div className='px-52  gap-x-20 grid grid-cols-3 py-28'>
         <div className='max-w-xs'>
-            <h1 className='text-black font-bold text-[54px] leading-[72px]'>Agile team
+            <h1 className='text-black font-bold text-[3.375rem] leading-[4.5rem]'>Agile team
             on demand
             </h1>
         </div>
@@ -27,7 +27,7 @@ const Team = () => {
     </div>
     <div className='mx-auto px-6 container pt-11 grid grid-cols-1 gap-y-10 lg:hidden'>
       <div className='max-w-xs'>
-            <h1 className='text-black font-bold text-5xl leading-[72px]'>Agile team
+            <h1 className='text-black font-bold text-5xl leading-[4.5rem]'>Agile team
             on demand
             </h1>
       </div>

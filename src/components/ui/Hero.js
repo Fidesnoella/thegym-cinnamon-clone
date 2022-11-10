@@ -10,7 +10,7 @@ const Hero = () => {
     <Navbar />
         <div className='mx-auto container'>
         <div className='px-6 md:px-28 slg:px-52 flex flex-col items-start justify-center pt-36 lg:pt-52 gap-y-5 pb-32 lg:pb-52'>
-           <h1 className='font-bold text-4xl sm:text-[46px] lg:text-[80px] text-white lg:leading-[105px]'>
+           <h1 className='font-bold text-4xl sm:text-[2.875rem] lg:text-[5rem] text-white lg:leading-[6.5625rem]'>
            Results focused design & 
            development agency.
            </h1>

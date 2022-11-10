@@ -12,7 +12,7 @@ function index(props) {
         <div className='mx-auto container'>
           <div className='px-6 md:px-32 slg:px-52 mt-32 gap-y-5 lg:gap-y-0 grid lg:grid-cols-3 py-28'>
             <div>
-               <h1 className='text-white font-bold text-[54px]'>Our services</h1>
+               <h1 className='text-white font-bold text-[3.375rem]'>Our services</h1>
             </div>
             <div className='col-span-2 grid md:grid-cols-2 gap-20'>
              <Service 
