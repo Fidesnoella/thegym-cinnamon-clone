@@ -8,7 +8,7 @@ import AboutUs from '../components/HomePage/AboutUs'
 import Project from '../components/Section/Project'
 import Products from '../components/Section/Products'
 import Hero from '../components/ui/Hero'
-
+import Tech from '../components/cards/Tech'
 
 
 export default function Home() {
@@ -20,6 +20,7 @@ export default function Home() {
     <Team />
     <Ping />
     <AboutUs />
+    <Tech />
     <Project />
     <Footer />
    </>
